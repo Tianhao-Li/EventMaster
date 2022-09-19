@@ -31,4 +31,4 @@ Java Web Service Development: Geo-based Event Search and Recommendation
 
 1. The "Nearby" navigation button for nearby events
 
-[Nearby](https://github.com/Tianhao-Li/EventMaster/blob/main/NearByEvents.jpg)
+![Nearby](https://github.com/Tianhao-Li/EventMaster/blob/main/NearByEvents.jpg)
