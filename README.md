@@ -33,4 +33,4 @@ Java Web Service Development: Geo-based Event Search and Recommendation
 
 2. The "My Favorites" navigation button for displaying my favorite events ![My Favorites](https://github.com/Tianhao-Li/EventMaster/blob/main/MyFavorites.jpg)
 
-3. The 
+3. The "Recommendation" navigation button for recommending events ![Recommendation](https://github.com/Tianhao-Li/EventMaster/blob/main/Recommendation.jpg)
