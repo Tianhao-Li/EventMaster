@@ -32,3 +32,7 @@ Java Web Service Development: Geo-based Event Search and Recommendation
 1. The "Nearby" navigation button for nearby events
 
 ![Nearby](https://github.com/Tianhao-Li/EventMaster/blob/main/NearByEvents.jpg)
+
+2. The "My Favorites" navigation button for displaying my favorite events ![My Favorites](https://github.com/Tianhao-Li/EventMaster/blob/main/MyFavorites.jpg)
+
+3. The 
