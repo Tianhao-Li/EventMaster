@@ -24,3 +24,11 @@ Java Web Service Development: Geo-based Event Search and Recommendation
 - Some future improvement:
   - Migrate the project to more advanced framework
   - Implement user registration feature
+
+
+
+> A demo
+
+1. The "Nearby" navigation button for nearby events
+
+[Nearby](https://github.com/Tianhao-Li/EventMaster/blob/main/NearByEvents.jpg)
