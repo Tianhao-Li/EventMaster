@@ -21,3 +21,6 @@ Java Web Service Development: Geo-based Event Search and Recommendation
   - Fixing mysql-server authentication problem on Amazon EC2
   - Synchronization of server testing settings and local testing settings
 
+- Some future improvement:
+  - Migrate the project to more advanced framework
+  - Implement user registration feature
